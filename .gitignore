@@ -175,3 +175,6 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
+# Ignore public vendor files if you prefer not to commit them
+/public
